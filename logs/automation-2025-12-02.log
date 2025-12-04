@@ -1,0 +1,48 @@
+2025-11-30 09:34:59.402 [main] 14   evel TestCases.TC1_AccountRegistrationTest - *** Started TC1 TestCase********
+2025-11-30 09:35:00.154 [main] 24   evel TestCases.TC1_AccountRegistrationTest - **** Registered details added****
+2025-11-30 09:35:00.471 [main] 28   evel TestCases.TC1_AccountRegistrationTest - **** Email details added****
+2025-11-30 09:35:07.549 [main] 39   evel TestCases.TC1_AccountRegistrationTest - ****Confirm validation added****
+2025-11-30 09:35:07.650 [main] 53   evel TestCases.TC1_AccountRegistrationTest - *** Finished TC1 TestCase********
+2025-11-30 09:35:12.237 [main] 16   evel TestCases.TC2_LogInTest - ******login Test started***********
+2025-11-30 09:35:12.238 [main] 19   evel TestCases.TC2_LogInTest - ******HomePage***********
+2025-11-30 09:35:12.794 [main] 24   evel TestCases.TC2_LogInTest - ******LogInPage***********
+2025-11-30 09:35:13.333 [main] 30   evel TestCases.TC2_LogInTest - ******MyAccountPage***********
+2025-11-30 09:35:14.302 [main] 39   evel TestCases.TC2_LogInTest - ******login Test  FInished***********
+2025-11-30 09:36:00.787 [main] 16   evel TestCases.TC2_LogInTest - ******login Test started***********
+2025-11-30 09:36:00.799 [main] 19   evel TestCases.TC2_LogInTest - ******HomePage***********
+2025-11-30 09:36:01.373 [main] 24   evel TestCases.TC2_LogInTest - ******LogInPage***********
+2025-11-30 09:36:01.907 [main] 30   evel TestCases.TC2_LogInTest - ******MyAccountPage***********
+2025-11-30 09:36:02.892 [main] 39   evel TestCases.TC2_LogInTest - ******login Test  FInished***********
+2025-12-02 15:13:21.679 [main] 14   evel TestCases.TC1_AccountRegistrationTest - *** Started TC1 TestCase********
+2025-12-02 15:13:22.557 [main] 24   evel TestCases.TC1_AccountRegistrationTest - **** Registered details added****
+2025-12-02 15:13:22.857 [main] 28   evel TestCases.TC1_AccountRegistrationTest - **** Email details added****
+2025-12-02 15:13:24.707 [main] 39   evel TestCases.TC1_AccountRegistrationTest - ****Confirm validation added****
+2025-12-02 15:13:24.775 [main] 53   evel TestCases.TC1_AccountRegistrationTest - *** Finished TC1 TestCase********
+2025-12-02 15:13:30.174 [main] 16   evel TestCases.TC2_LogInTest - ******login Test started***********
+2025-12-02 15:13:30.175 [main] 19   evel TestCases.TC2_LogInTest - ******HomePage***********
+2025-12-02 15:13:30.778 [main] 24   evel TestCases.TC2_LogInTest - ******LogInPage***********
+2025-12-02 15:13:31.254 [main] 30   evel TestCases.TC2_LogInTest - ******MyAccountPage***********
+2025-12-02 15:20:16.693 [main] 16   evel TestCases.TC2_LogInTest - ******login Test started***********
+2025-12-02 15:20:16.704 [main] 19   evel TestCases.TC2_LogInTest - ******HomePage***********
+2025-12-02 15:20:17.262 [main] 24   evel TestCases.TC2_LogInTest - ******LogInPage***********
+2025-12-02 15:20:17.792 [main] 30   evel TestCases.TC2_LogInTest - ******MyAccountPage***********
+2025-12-02 15:22:02.072 [main] 14   evel TestCases.TC1_AccountRegistrationTest - *** Started TC1 TestCase********
+2025-12-02 15:22:02.796 [main] 24   evel TestCases.TC1_AccountRegistrationTest - **** Registered details added****
+2025-12-02 15:22:03.146 [main] 28   evel TestCases.TC1_AccountRegistrationTest - **** Email details added****
+2025-12-02 15:22:04.511 [main] 39   evel TestCases.TC1_AccountRegistrationTest - ****Confirm validation added****
+2025-12-02 15:22:14.588 [main] 45   evel TestCases.TC1_AccountRegistrationTest - Test Failed
+2025-12-02 15:22:14.589 [main] 46   evel TestCases.TC1_AccountRegistrationTest - Debug Logs
+2025-12-02 15:22:19.541 [main] 16   evel TestCases.TC2_LogInTest - ******login Test started***********
+2025-12-02 15:22:19.545 [main] 19   evel TestCases.TC2_LogInTest - ******HomePage***********
+2025-12-02 15:22:20.035 [main] 24   evel TestCases.TC2_LogInTest - ******LogInPage***********
+2025-12-02 15:22:20.524 [main] 30   evel TestCases.TC2_LogInTest - ******MyAccountPage***********
+2025-12-02 15:25:23.662 [main] 14   evel TestCases.TC1_AccountRegistrationTest - *** Started TC1 TestCase********
+2025-12-02 15:25:24.408 [main] 24   evel TestCases.TC1_AccountRegistrationTest - **** Registered details added****
+2025-12-02 15:25:24.737 [main] 28   evel TestCases.TC1_AccountRegistrationTest - **** Email details added****
+2025-12-02 15:25:26.479 [main] 39   evel TestCases.TC1_AccountRegistrationTest - ****Confirm validation added****
+2025-12-02 15:25:26.538 [main] 53   evel TestCases.TC1_AccountRegistrationTest - *** Finished TC1 TestCase********
+2025-12-02 15:25:31.040 [main] 16   evel TestCases.TC2_LogInTest - ******login Test started***********
+2025-12-02 15:25:31.041 [main] 19   evel TestCases.TC2_LogInTest - ******HomePage***********
+2025-12-02 15:25:31.565 [main] 24   evel TestCases.TC2_LogInTest - ******LogInPage***********
+2025-12-02 15:25:32.139 [main] 30   evel TestCases.TC2_LogInTest - ******MyAccountPage***********
+2025-12-02 15:28:08.136 [main] 14   evel TestCases.TC1_AccountRegistrationTest - *** Started TC1 TestCase********
